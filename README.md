@@ -6,6 +6,9 @@ Add these extensions to your browser and unlock the potential to hack the world!
 
 Happy Hacking! 🚀🔐
 
+**Note:** If you have more extensions that you find useful for Bug Bounty Hunting or ethical hacking, feel free to share them. Contributions are welcome!
+
+
 ## Chrome Extensions:
 
 1. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
