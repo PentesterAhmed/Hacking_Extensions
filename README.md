@@ -6,7 +6,10 @@ Add these extensions to your browser and unlock the potential to hack the world!
 
 Happy Hacking! 🚀🔐
 
-**Note:** If you have more extensions that you find useful for Bug Bounty Hunting or ethical hacking, feel free to share them. Contributions are welcome!
+`
+
+📢 **Note:** If you have more extensions to share, please contribute!
+  Feel free to fork this repository, add your favorite extensions with descriptions, and create pull requests to contribute. Let's make this collection even more comprehensive and valuable for the Bug Bounty community!
 
 
 ## Chrome Extensions:
