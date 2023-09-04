@@ -20,11 +20,9 @@ Happy Hacking! 🚀🔐
 
 6. [Truffle Hog](https://chrome.google.com/webstore/detail/trufflehog/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc)
 
-### VPNs (That I use):
+7. [Browsec VPN](https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh)
 
-1. [Browsec VPN](https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh)
-
-2. [Zenmate VPN](https://chrome.google.com/webstore/detail/free-vpn-zenmate-best-vpn/fdcgdnkidjaadafnichfpabhfomcebme)
+8. [Zenmate VPN](https://chrome.google.com/webstore/detail/free-vpn-zenmate-best-vpn/fdcgdnkidjaadafnichfpabhfomcebme)
 
 ## Firefox Add-ons:
 
