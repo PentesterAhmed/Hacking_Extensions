@@ -1,4 +1,5 @@
 🐛 # Bugbounty_Extensions 🕵️‍♂️
+
 Explore the Collection of essential Browser extensions that elevate your web hacking and Bug Bounty Hunting game! 🔍💻
 
 Add these extensions to your browser and unlock the potential to hack the world! 🌐🌟
